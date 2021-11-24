@@ -1,4 +1,4 @@
-
+xn--90aiiboncqk6c9c.xn--p1ai
 
 User-agent: Googlebot
 Disallow:
